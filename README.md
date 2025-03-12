@@ -21,7 +21,7 @@ It also leverages **TinyMCE for rich text editing, HTML React Parser for renderi
 ![Post Editor](https://github.com/athrocks/Blog-Website/blob/main/imgs/editor.png)
 
 ### 📚 Blog Posts  
-![All Posts](screenshots/posts.png)
+![All Posts](https://github.com/athrocks/Blog-Website/blob/main/imgs/posts.png)
 
 ---
 
