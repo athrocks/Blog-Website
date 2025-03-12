@@ -142,14 +142,3 @@ If you need any help, feel free to reach out:
 🔗 **GitHub**: [my github](https://github.com/athrocks)  
 
 ---
-
-This version makes your **README professional, well-structured, and detailed**. 🎯  
-
-### **🛠 Key Improvements:**  
-✔️ **Structured Installation Guide** – Clearer instructions with `.env` setup.  
-✔️ **Added Features List** – Highlights key functionalities.  
-✔️ **Added Folder Structure** – Helps developers understand the project better.  
-✔️ **Contribution Guide** – Encourages open-source collaboration.  
-✔️ **Better Formatting & Readability** – Looks polished and easy to read.
-
-Let me know if you need any modifications! 🚀🔥
