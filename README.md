@@ -9,6 +9,22 @@ It also leverages **TinyMCE for rich text editing, HTML React Parser for renderi
 
 ---
 
+## 📸 Screenshots  
+
+### 🏠 Homepage  
+![Homepage Preview](screenshots/homepage.png)
+
+### 🔐 Login Page  
+![Login Page](screenshots/login.png)
+
+### ✏️ Rich Text Editor  
+![Post Editor](screenshots/editor.png)
+
+### 📚 Blog Posts  
+![All Posts](screenshots/posts.png)
+
+---
+
 ## **🛠 Technologies Used**  
 
 | Technology            | Description |
