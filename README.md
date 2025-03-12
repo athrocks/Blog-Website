@@ -12,13 +12,13 @@ It also leverages **TinyMCE for rich text editing, HTML React Parser for renderi
 ## 📸 Screenshots  
 
 ### 🏠 Homepage  
-![Homepage Preview](screenshots/homepage.png)
+![Homepage Preview](https://github.com/athrocks/Blog-Website/blob/main/imgs/home.png)
 
 ### 🔐 Login Page  
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/athrocks/Blog-Website/blob/main/imgs/login.png)
 
 ### ✏️ Rich Text Editor  
-![Post Editor](screenshots/editor.png)
+![Post Editor](https://github.com/athrocks/Blog-Website/blob/main/imgs/editor.png)
 
 ### 📚 Blog Posts  
 ![All Posts](screenshots/posts.png)
